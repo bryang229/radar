@@ -9,5 +9,5 @@
 <li><ul>M to M wires</ul></li>
 <li><ul>Bread Board</ul></li>
 <li><ul>Arduino IDE</ul></li>
-<img src = "./SideView.png"/>
-<img src = "./TopView.png"/>
+<img src = "./SideView.jpg"/>
+<img src = "./TopView.jpg"/>
